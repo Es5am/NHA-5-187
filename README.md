@@ -29,6 +29,8 @@ Scores on the 188 BraTS 2021 validation patients (the locked test patients have 
 
 These are validation scores of a research prototype on a public dataset, not evidence of clinical performance.
 
+**Project documentation** (planning, stakeholder analysis, data design, UI/UX design): [`docs/PROJECT_DOCUMENTATION.md`](docs/PROJECT_DOCUMENTATION.md).
+
 ## Data
 
 Training uses **BraTS 2021** only; RHUH-GBM, MU-Glioma-Post, BraTS-Africa and UTSW-Glioma are kept for external tests
