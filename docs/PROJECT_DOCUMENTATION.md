@@ -160,12 +160,12 @@ quadrantChart
     quadrant-4 Keep informed
     Instructor: [0.85, 0.9]
     Project team: [0.9, 0.8]
-    DEPI program: [0.5, 0.85]
+    DEPI program: [0.42, 0.85]
     Hospital IT: [0.45, 0.7]
-    Clinicians: [0.85, 0.55]
+    Clinicians: [0.8, 0.42]
     Dataset providers: [0.2, 0.55]
     Patients: [0.8, 0.2]
-    Researchers: [0.55, 0.2]
+    Researchers: [0.35, 0.2]
 ```
 
 - **Manage closely** (the instructor and the team): weekly progress on the task board, milestone reviews, and quick
